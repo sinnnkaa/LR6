@@ -33,11 +33,16 @@ git revert HEAD --no-edit
    ![image](https://github.com/sinnnkaa/LR6/assets/113597644/bab02fc8-95ee-42a0-9580-abcf0c8e315f)
 
 4. При слиянии веток конфликт не возник
-5. Добавление первого коммита
+5. Удаление побочной ветки
+
+   ![image](https://github.com/sinnnkaa/LR6/assets/113597644/1f6c679a-6314-4b34-a212-92d42a6d7127)
+
+   
+7. Добавление первого коммита
 
    ![image](https://github.com/sinnnkaa/LR6/assets/113597644/e087e41d-31be-4eb3-ae0b-4f935dbeaea7)
 
-6. Добавление и отмена второго коммита
+8. Добавление и отмена второго коммита
 
    ![image](https://github.com/sinnnkaa/LR6/assets/113597644/f74ddbbb-49e2-456b-b698-7b594eddc353)
 
